@@ -44,3 +44,6 @@ PIXELHOUSE_TEST/
 Execute ambos os servidores (backend e frontend) para ter todas funcionalidades
 O backend utiliza o modo watch do Node.js para reinício automático
 O frontend utiliza o servidor de desenvolvimento do Vite com HMR
+
+### 🚀 Demonstração
+![image](https://github.com/user-attachments/assets/78f77c7a-27bc-4383-a4df-ec453b00f0fe)
